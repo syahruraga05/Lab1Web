@@ -22,3 +22,4 @@
 
 ## **Jawaban**
 ### **1**
+![Gambar kode pada visual code](/gambar/Gambar1.PNG)
