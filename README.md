@@ -21,5 +21,11 @@
 <br>
 
 ## **Jawaban**
-### **1**
+### **No 1**
+Setelah saya mengubah pada beberapa kode dan tidak ada yg error maka hasilnya seperti ini.
 ![Gambar](/Gambar/Gambar1.PNG)
+Ketika dijalankan di web
+![Gambar](/Gambar/Capture2.PNG)
+Tetapi jika saya mengubah beberapa kode terjadi kesalahan penulisan tidak pada tag maka hasilnya seperti ini.
+![Gambar](/Gambar/Capture3.PNG)
+Ada beberapa tulisan yg tidak muncul ketika dijalankan di web
