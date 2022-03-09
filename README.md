@@ -18,3 +18,8 @@
 3. Apa perbedaan atribut **title** dan **alt** pada tag <img>, berikan penjelasannya!
 4. Untuk mengatur ukuran gambar, digunakan atribut **width** dan **height**. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjeleasannya!
 5. Pada **link** tambahkan atribut **targer** dengan nilai atribut bervariasi(**_blank**, **_self**, _**top**, **_parent**), apa yang terjadi pada masing-masing nilai atribut tersebut?
+<br>
+
+## **Jawaban**
+<br>
+# **1**
