@@ -35,15 +35,14 @@ Perbedaan antara tag <**p**> dengan tag <**br**>
 #### **Tag <**p**>**
 Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman HTML, antara garis atau paragraf terbentuk jarak
 #### **Tag <**br**>**
-Tag ini dituliskan pada kerangka HTML untuk memberikan perintah "break line", artinya menginstruksikan baris baru. bedanya dengan tag paragraf adalah baris baru yg dihasilkan tanpa memberi jarak dengan baris diatasnya.
-Jadi perbedaan yang mencolok dari kedua tag ini adalah bentuk pada jarak yang terbentuk. Untuk lebih jelasnya bisa diliat pada contoh berikut ini. 
-<br/>
+<p>Tag ini dituliskan pada kerangka HTML untuk memberikan perintah "break line", artinya menginstruksikan baris baru. bedanya dengan tag paragraf adalah baris baru yg dihasilkan tanpa memberi jarak dengan baris diatasnya.
+Jadi perbedaan yang mencolok dari kedua tag ini adalah bentuk pada jarak yang terbentuk. Untuk lebih jelasnya bisa diliat pada contoh berikut ini.</p>
 **Source Code** 
 <br/>
 ![Gambar](/Gambar/Capture4.PNG)
 **Hasilnya** 
 <br/>
 ![Gambar](/Gambar/Capture5.PNG)
-<br>
+<br/>
 Bisa dilihat pada gambar diatas antara tag <**p**> dan <**br**>, kesimpulannya jika hanya ingin membuat garis baru tanpa jarak gunakan tag <**br**>, tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka gunakan tag <**p**>
  
