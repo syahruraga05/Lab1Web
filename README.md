@@ -30,7 +30,7 @@ Tetapi jika saya mengubah beberapa kode terjadi kesalahan penulisan pada tag mak
 ![Gambar](/Gambar/Capture3.PNG)
 Ada beberapa tulisan yg tidak muncul ketika dijalankan di web
 <br/>
-### **No 2**
+## **No 2**
 Perbedaan antara tag <**p**> dengan tag <**br**>
 #### **Tag <**p**>**
 Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman HTML, antara garis atau paragraf terbentuk jarak
@@ -50,4 +50,3 @@ Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dala
 #### **Title**
 Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar. Text yang di masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat menyorot gambar dengan mouse.<br/>
 <br/>
-### **No 4**
