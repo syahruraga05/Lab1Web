@@ -42,7 +42,7 @@ Jadi perbedaan yang mencolok dari kedua tag ini adalah bentuk pada jarak yang te
 * **Hasilnya** <br>
 ![Gambar](/Gambar/Capture5.PNG)
 Bisa dilihat pada gambar diatas antara tag <**p**> dan <**br**>, kesimpulannya jika hanya ingin membuat garis baru tanpa jarak gunakan tag <**br**>, tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka gunakan tag <**p**>
-
+<br/>
 ### **No 3**
 Perbedaan atribut **title** dan **alt** pada tag <**img**><br/>
 #### **Alt**
