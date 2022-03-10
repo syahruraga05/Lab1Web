@@ -44,7 +44,7 @@ Jadi perbedaan yang mencolok dari kedua tag ini adalah bentuk pada jarak yang te
 Bisa dilihat pada gambar diatas antara tag <**p**> dan <**br**>, kesimpulannya jika hanya ingin membuat garis baru tanpa jarak gunakan tag <**br**>, tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka gunakan tag <**p**>
 <br/>
 ### **No 3**
-Perbedaan atribut **title** dan **alt** pada tag <**img**><br/>
+Perbedaan atribut **title** dan **alt** padatag <**img**><br/>
 #### **Alt**
 Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak.<br/>
 #### **Title**
