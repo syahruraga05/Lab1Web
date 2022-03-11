@@ -17,7 +17,7 @@
 2. Apa perbedaan dari tag <**p**> dengan tag <**br**>, berikan penjelasannya!
 3. Apa perbedaan atribut **title** dan **alt** pada tag <**img**>, berikan penjelasannya!
 4. Untuk mengatur ukuran gambar, digunakan atribut **width** dan **height**. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjeleasannya!
-5. Pada **link** tambahkan atribut **target** dengan nilai atribut bervariasi(**_blank**, **_self**, _**top**, **_parent**), apa yang terjadi pada masing-masing nilai atribut tersebut?
+5. Pada **link** tambahkan atribut **target** dengan nilai atribut bervariasi  (**_blank**, **_self**, _**top**, **_parent**), apa yang terjadi pada masing-masing nilai atribut tersebut?
 <br/>
 
 ## **Jawaban**
@@ -51,7 +51,7 @@ Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dala
 Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar. Text yang di masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat menyorot gambar dengan mouse.<br/>
 <br/>
 ### **No 4**
-Menurut saya agar gamnbar terlihat proporsional lebih baik hanya mengubah width atau heightnya saja, karena height akan mengikuti width gambar tersebut jadi akan terlihat proporsional
+Menurut saya agar gambar terlihat proporsional lebih baik hanya mengubah width atau heightnya saja, karena height akan mengikuti width gambar tersebut jadi akan terlihat proporsional
 <br/>
 ### **No 5**
 #### **_blank**
